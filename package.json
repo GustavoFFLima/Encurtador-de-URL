@@ -1,0 +1,26 @@
+{
+  "name": "encurtador-de-url",
+  "version": "1.0.0",
+  "description": "Encurtador de URL desemvolvido para fixar o conteudo do bootcamp DIO-EDUZZ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GustavoFFLima/Encurtador-de-URL.git"
+  },
+  "author": "Gustavo Frazao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GustavoFFLima/Encurtador-de-URL/issues"
+  },
+  "homepage": "https://github.com/GustavoFFLima/Encurtador-de-URL#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "eslist": "^1.0.0-beta.1",
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15",
+    "typescript": "^4.6.2"
+  }
+}
